@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Barmaid Bot](https://github.com/Fortex365/Barmaid)
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python, Discord API**
 
 - 📫 How to reach me **fortexmc@gmail.com**
 
