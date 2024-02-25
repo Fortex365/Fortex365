@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 💬 Ask me about **Python, Discord API, lua**
+- 💬 Ask me about **Python, Discord API, .NET Razer & EF**
 - 👨‍💻 CS degree at @Palacky University
 - 🏡 Czechia
 - ⚙️ I like backend and APIs
